@@ -1,7 +1,7 @@
 # Previsao Diabetes - Machine Learning
 # Objetivo
 
-O objetivo desse projeto é desenvolver modelos de predição utilizando Machine Learning para prever se um paciente, de acordo com suas características, tende a ter diabetes ou não, além de descobrir quais características que mais contribuem e influenciam uma pessoa a ter diabetes. Esse trabalho tem apenas fins acadêmicos, porém, pode servir para auxiliar auxiliar profissionais da saúde a identificar indivíduos em risco, permitindo intervenções preventivas ou diagnósticos mais rápidos.
+O objetivo desse projeto é desenvolver modelos de predição utilizando Machine Learning para prever se um paciente, de acordo com suas características, tende a ter diabetes ou não, além de descobrir quais características que mais contribuem e influenciam uma pessoa a ter diabetes. Esse trabalho tem apenas fins acadêmicos, porém, pode servir para auxiliar  profissionais da saúde a identificar indivíduos em risco, permitindo intervenções preventivas ou diagnósticos mais rápidos.
 
 # Como funciona
 
